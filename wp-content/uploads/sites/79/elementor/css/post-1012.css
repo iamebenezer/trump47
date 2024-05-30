@@ -67,7 +67,8 @@
 
 .elementor-1012 .elementor-element.elementor-element-975753e:not(.elementor-motion-effects-element-type-background),
 .elementor-1012 .elementor-element.elementor-element-975753e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url("https://trumprallybase.com/wp-content/uploads/sites/79/2024/05/american-flag.webp");
+    /* background-image: url("https://trumprallybase.com/wp-content/uploads/sites/79/2024/05/american-flag.webp");
+    */
     background-position: top center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -544,8 +545,8 @@
     font-weight: 400;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #D12222;
-    stroke: #D12222;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-05f5b86 {
@@ -1504,8 +1505,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #DB2C2C;
-    stroke: #DB2C2C;
+    -webkit-text-stroke-color: #0000;
+    stroke: #0000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-fe7cc7d {
@@ -1542,8 +1543,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #DB2C2C;
-    stroke: #DB2C2C;
+    -webkit-text-stroke-color: #0000;
+    stroke: #0000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-14ca1bd {
@@ -1580,8 +1581,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #DB2C2C;
-    stroke: #DB2C2C;
+    -webkit-text-stroke-color: #0000;
+    stroke: #0000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-5e5a82d {
@@ -1619,8 +1620,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #DB2C2C;
-    stroke: #DB2C2C;
+    -webkit-text-stroke-color: #0000;
+    stroke: #0000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-cf147f1 {
@@ -1658,8 +1659,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #DB2C2C;
-    stroke: #DB2C2C;
+    -webkit-text-stroke-color: #0000;
+    stroke: #0000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-8ae16d1 {
@@ -1701,8 +1702,8 @@
     font-weight: 600;
     -webkit-text-stroke-width: 1px;
     stroke-width: 1px;
-    -webkit-text-stroke-color: #DA2323;
-    stroke: #DA2323;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
 }
 
 .elementor-1012 .elementor-element.elementor-element-14f6b34 {
