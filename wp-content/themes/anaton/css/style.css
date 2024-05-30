@@ -621,13 +621,13 @@ p {
 
 .default-padding {
     padding-top: 120px;
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
 }
 
 @media only screen and (max-width: 767px) {
     .default-padding {
         padding-top: 50px;
-        padding-bottom: 50px;
+        /* padding-bottom: 50px; */
     }
 }
 
